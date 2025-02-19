@@ -20,3 +20,5 @@ Make sure Python 3.6+ is installed and install the dependencies: `pip install pi
 3. **Delete or Keep**:
    - Click "Delete" to move the file to the "Deleted" folder.
    - Click "Keep" to skip the file.
+
+![gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9jbHFmaDh3cXkzMTUxbG5xcDNubDAyODA1d200b2h0bjhkbDRjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AQh0yXVMsi0MArt37y/giphy.gif)
